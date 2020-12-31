@@ -1,18 +1,18 @@
 [submodule "3rdparty/crashreporter"]
 	path = 3rdparty/crashreporter
-	url = https://github.com/RedisDesktop/CrashReporter.git
+	url = https://github.com.cnpmjs.org/RedisDesktop/CrashReporter.git
 [submodule "3rdparty/qredisclient"]
 	path = 3rdparty/qredisclient
-	url = https://github.com/uglide/qredisclient.git
+	url = https://github.com.cnpmjs.org/uglide/qredisclient.git
 [submodule "3rdparty/gbreakpad"]
 	path = 3rdparty/gbreakpad
-	url = https://github.com/google/breakpad.git
+	url = https://github.com.cnpmjs.org/google/breakpad.git
 [submodule "3rdparty/qt-unix-signals"]
 	path = 3rdparty/qt-unix-signals
-	url = https://github.com/sijk/qt-unix-signals.git
+	url = https://github.com.cnpmjs.org/sijk/qt-unix-signals.git
 [submodule "3rdparty/pyotherside"]
 	path = 3rdparty/pyotherside
-	url = https://github.com/uglide/pyotherside.git
+	url = https://github.com.cnpmjs.org/uglide/pyotherside.git
 [submodule "3rdparty/lz4"]
 	path = 3rdparty/lz4
-	url = https://github.com/lz4/lz4.git
+	url = https://github.comgithub.com.cnpmjs.org/lz4/lz4.git
