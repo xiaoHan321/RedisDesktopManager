@@ -15,4 +15,4 @@
 	url = https://github.com.cnpmjs.org/uglide/pyotherside.git
 [submodule "3rdparty/lz4"]
 	path = 3rdparty/lz4
-	url = https://github.comgithub.com/lz4/lz4.git
+	url = https://github.com/lz4/lz4.git
